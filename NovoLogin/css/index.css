@@ -3,8 +3,8 @@
     margin-right: 20px;
 }
 .logotipo img{
-    height: 41px;
-    margin-top: -10px;
+    height: 33px;
+    margin-top: 0px;
 }
 .perfil{
     padding:10px;
@@ -30,6 +30,10 @@
 
 .paginacao .pagination{
     margin-top: 0px;
+}
+
+th{
+    text-align: center;
 }
 
 @media (max-width: 767px){
